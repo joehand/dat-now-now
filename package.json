@@ -1,0 +1,12 @@
+{
+  "name": "dat-now-demo",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "dat-now"
+  },
+  "author": "Joe Hand",
+  "license": "MIT",
+  "dependencies": {
+    "dat-now": "^1.0.0"
+  }
+}
